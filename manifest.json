@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "Clock",
+	"description": "JS + CSS Clock",
+	"version": "1.0",
+	"browser_action": {
+		"default_popup": "index.html"
+	},
+
+	"icons": {  "16": "clock.png",
+				"48": "clock.png",
+				"128": "clock.png" }
+}
